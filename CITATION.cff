@@ -13,4 +13,16 @@ title: "BiNode"
 version: 1.0.0
 url: "https://github.com/xiaozheshao/BiNode"
 preferred-citation:
-  type: article
+  type: generic
+  authors:
+  - family-names: "Shao"
+    given-names: "Xiaozhe"
+  - family-names: "Chen"
+    given-names: "Zibin"
+  - family-names: "Holcomb"
+    given-names: "Daniel"
+  - family-names: "Gao"
+    given-names: "Lixin"
+  title: "BiNode"
+  version: 1.0.0
+  url: "https://github.com/xiaozheshao/BiNode"
